@@ -4,6 +4,10 @@ A **7 deadly sins test** turns familiar situations into a profile of pride, envy
 
 If you want to explore your own pattern, the official Seven Sides website offers a free [7 deadly sins test](https://7deadlysinstest.xyz/): 21 everyday questions, an original alter ego, seven scores, and an illustrated result card. This guide explains how to answer thoughtfully and make sense of the result without letting a dramatic label define you.
 
+![Seven Sides quiz introduction with a demonstration illustrated alter ego card](https://7deadlysinstest.xyz/marketing/seven-sides-cover-preview.png)
+
+*Demonstration result card exported from Seven Sides; for entertainment and reflection.*
+
 ## What does a 7 deadly sins test actually tell you?
 
 A 7 deadly sins quiz asks you to recognize yourself in descriptions of behavior. You might consider how you respond to correction, whether someone else's progress unsettles you, or how often a short scrolling break becomes much longer than planned.
@@ -69,6 +73,10 @@ On this 7 deadly sins test, 67 out of 100 does **not** mean “67% sinful,” a 
 
 Skipped items are left out of the average. With two usable answers instead of three, each remaining answer has more influence. The explanation helps you see which responses supported a tendency and which pointed away from it. You can review the [7 deadly sins test scoring guide](https://7deadlysinstest.xyz/#scoring) alongside your profile.
 
+![Illustrative Seven Sides profile showing seven separate tendency scores](https://7deadlysinstest.xyz/marketing/seven-sides-sample-spectrum.png)
+
+*Illustrative sample: each tendency has its own score, rather than a share of a single total.*
+
 ## Which deadly sin am I if my scores are close?
 
 A 7 deadly sins test does not need to force a winner. Two close scores can describe overlapping patterns, while an even profile may have no clear leading tendency. Broadly high or low responses also deserve context instead of an arbitrary label.
@@ -76,6 +84,10 @@ A 7 deadly sins test does not need to force a winner. Two close scores can descr
 Seven Sides translates these patterns into original editorial characters. A leading pride profile can become **The Velvet Crown**; a profile without a strong standout may become **The Seven-Sided Original**. These names make the result memorable, but they are not scientific personality categories.
 
 When a 7 deadly sins quiz gives you a surprising result, ask which answers produced it. Did several situations fit, or did one response have an outsized effect? Did you interpret a statement differently after seeing the explanation? Those questions are more useful than deciding whether you “really are” the character.
+
+![The Velvet Crown sample character reveal and illustrated card in Seven Sides](https://7deadlysinstest.xyz/marketing/seven-sides-sample-character.png)
+
+*Illustrative sample: The Velvet Crown is an original editorial character, not a psychological category.*
 
 ## Turn the result into one small observation
 
