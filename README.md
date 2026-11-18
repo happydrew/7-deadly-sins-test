@@ -132,3 +132,20 @@ Ready to explore your own examples? Take the official Seven Sides [7 deadly sins
 ---
 
 **Seven Sides:** [GitHub](https://github.com/happydrew/7-deadly-sins-test) · [Pinterest](https://www.pinterest.com/veogen/) · [LinkedIn](https://www.linkedin.com/in/drew-grant-200528328/) · [Contact support](mailto:support@7deadlysinstest.xyz)
+
+## Related resources
+
+- [Product Hunt](https://www.producthunt.com/products/7-deadly-sins-test)
+- [X](https://x.com/compareheights/status/2122731341821423759)
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7528500225615925249/)
+- [Peerlist](https://peerlist.io/scroll/post/ACTHKKDBLMBKG9RNQHJO8BKPRBAQ9L)
+- [Medium — What Your Scores Really Mean](https://medium.com/@zhugetd/7-deadly-sins-test-what-your-scores-really-mean-434b9c3d5d51?postPublishedType=initial)
+- [note](https://note.com/brainy_ixora2792/n/n475c48ecd05a)
+- [Patreon](https://www.patreon.com/compareheights_org/posts/7-deadly-sins-id-175708090)
+- [Velog](https://velog.io/@drewgrant616/7-Deadly-Sins-Test%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EB%95%8C-%ED%95%B4%EB%8B%B9-%EC%97%86%EC%9D%8C%EC%9D%84-0%EC%A0%90%EC%9C%BC%EB%A1%9C-%EC%B2%98%EB%A6%AC%ED%95%98%EB%A9%B4)
+- [PromptZone — Read Your Result, Try These Prompts](https://www.promptzone.com/drewgrant/7-deadly-sins-test-read-your-result-try-these-prompts-jj7)
+- [Google Sites — Seven Sides](https://sites.google.com/view/seven-sides-7-deadly-sins-test/home)
+- [Hugging Face](https://huggingface.co/datasets/drewgrant616/7deadlysinstest)
+- [DEV Community — Building a Test Without Judging the User](https://dev.to/drew_grant_7c81ce9e84426a/building-a-7-deadly-sins-test-without-judging-the-user-293h)
+- [Pinterest](https://ch.pinterest.com/pin/919367711460935104/)
+- [Website Carbon](https://www.websitecarbon.com/website/7deadlysinstest-xyz/)
